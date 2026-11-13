@@ -1,4 +1,4 @@
-# Orrery Sequencer (MOD-OR9) (MOD-OR9)
+# Orrery Sequencer (MOD-OR9)
 
 Eight-lane Euclidean sequencer with per-lane clock division.
 

@@ -1,4 +1,4 @@
-# Orrery Sequencer (MOD-OR9) assembly notes
+# Orrery Sequencer assembly notes
 
 1. Populate the power section first and verify +/-12 V rails before fitting
    the analog board.
